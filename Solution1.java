@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
     public int[] searchRange(int[] nums, int target) {
         int[] result = new int[2];
         result[0] = findStartingIndex(nums,target);
